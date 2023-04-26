@@ -1,3 +1,9 @@
+#### Task Background
+
+The main requirement of this task was to create a Data Warehouse solution along with a Macjine Learning implementation based on certain use case scenario. The deliverables of this task were a Dara Warehouse (Designed using Star Schema), SQL queries to create the warehouse system, Python script for the machine learning implementation and the list of reporting queries based on the requirements.
+
+
+
 ### ERD for the Data Warehouse Design
 
 For this step, a Star Schema was designed based on the project requirement. Fact and dimentional modelling were done on the bassis of the data present and the requirement of the project. [Link](ERD_001204526_Group_11.pdf)
