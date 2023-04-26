@@ -4,8 +4,16 @@ For this step, a Star Schema was designed based on the project requirement. Fact
 
 ### DDL to create the DW tables
 
+After designing the fact and dimension tables, the tables were created in the data warehouse usign the following scripts. [Link](DWH_Table_AND_Sequences_Creation_DDL.sql)
+
 ### Loading Data into the Warehouse
+
+Once the database objects were created, the data was cleansed and loaded into the data warehouse system. [Link](Loading_Data_To_Warehouse.sql)
 
 ### Machine Learning Implementation usign Decision Tree Classifier
 
+Decision Tree Classifier was used to perform the prediction on the type of covers. [Link](COMP-1848_Decision_Tree_001204526.ipynb)
+
 ### Reporting Queries
+
+Basic reporting on the data from the data warehouse was done to extract some information. [Link](GroupTaskQuries.sql)
